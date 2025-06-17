@@ -3,8 +3,9 @@
 &nbsp;
 
 # `#01` GameDev: Wprowadzenie
+## Parzystość liczby
 
-Tutaj treść
+Poproś użytkownika o podanie liczby całkowitej i następnie sprawdź, czy jest parzysta. Wyświetl odpowiedni komunikat.
 
 
 &nbsp;

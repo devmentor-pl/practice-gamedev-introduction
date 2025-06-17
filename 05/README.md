@@ -1,10 +1,19 @@
-> :white_check_mark: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s10e01-gamedev-introduction` (dotyczy [mentee](https://devmentor.pl/mentoring/)) lub na ogólnodostępnej i bezpłatnej [społeczności na Discordzie](https://devmentor.pl/discord). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
+> :white_check_mark: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s10e05-gamedev-introduction` (dotyczy [mentee](https://devmentor.pl/mentoring/)) lub na ogólnodostępnej i bezpłatnej [społeczności na Discordzie](https://devmentor.pl/discord). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
 
 # `#05` GameDev: Wprowadzenie
+## Konwersja temperatury
 
-Tutaj treść
+Napisz program, który służy do konwersji temperatury z jednej skali do drugiej.
+
+Program powinien działać w sposób następujący:
+1. Użytkownik wybiera źródłową skalę temperatury
+2. Użytkownik wpisuje temperaturę jako liczbę rzeczywistą
+3. Użytkownik wybiera docelową skalę temperatury
+4. Program wyświetla przekonwertowaną temperaturę w docelowej skali
+
+Program powinien obsługiwać skale Celsjusza, Fahrenheita oraz Kelvina.
 
 
 &nbsp;
